@@ -1,2 +1,2 @@
 # Object-Oriented-Programming
-OOps in Python and Java
+OOP concepts in Python and Java
